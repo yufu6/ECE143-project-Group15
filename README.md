@@ -21,6 +21,6 @@ Top5_pet_with_interactive: In the case the plot in 143Project_code_final_version
 ## Run the Code
 Install all the third-party modules mentions in the library. <br />
 Download json file in All Dog Data folder <br />
-Download two csv files in friendly folder <br />
-Download two csv files in Top5 folder <br />
-All them to one folder and you are able to run the 143Project_code_final_version.ipynb for data visualization!
+Download two csv files in friendly result folder <br />
+Download two csv files in Top5 Data folder <br />
+Add all them to one folder and you are able to run the 143Project_code_final_version.ipynb for data visualization!
