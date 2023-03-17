@@ -14,5 +14,6 @@ All dog data is save in dog data with json file
 
 ## File explaination
 All dog data: All dog data with their whole feature such as breeds, location, color, gender, age, size, etc. json format. <br />
-Top5 data: Include the top 5 common breeds in each state for both cat and dog. csv format. <br />
-Fridenly Result: The probability of any specific breed 
+Top5 data: The top 5 common breeds in each state for both cat and dog. csv format. <br />
+Fridenly Result: The probability that a certain breed is comfortable in some certain living environment(with dog, cat, and children). 
+
