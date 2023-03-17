@@ -16,4 +16,4 @@ All dog data is saved in dog data with json file
 All dog data: All dog data with their whole feature such as breeds, location, color, gender, age, size, etc. json format. <br />
 Top 5 data: The top 5 common breeds in each state for both cat and dog. csv format. <br />
 Friendly Result: The probability that a certain breed is comfortable in some certain living environment(with dog, cat, and children). <br />
-Top5_pet_with_interactive: In the case the plot in visualization.ipynb not work properly due to the interactive ploty function. There include two gifs that shows the visualization with interaction.
+Top5_pet_with_interactive: In the case the plot in 143Project_code_final_version.ipynb not work properly due to the interactive ploty function. There include two gifs that shows the visualization with interaction.
