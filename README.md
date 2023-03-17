@@ -2,7 +2,7 @@
 This is the Pet Analysis project for ECE 143
 
 ## Library
-For running the top5 cat and dog code, need to import plotly, plotly.io, numpy, pandas, json
+For running the top5 cat and dog code, need to import plotly, plotly.io, numpy, pandas, json, plotly.graph_objs, plotly.express
 
 ## API access
 There are five API and secret passwords in the code since the Petfinder API can only access 1000 API calls per day.
